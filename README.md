@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=extra-jalapenos&show_icons=true&locale=en&layout=compact" alt="extra-jalapenos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extra-jalapenos&show_icons=true&locale=en" alt="extra-jalapenos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extra-jalapenos&" alt="extra-jalapenos" /></p>
