@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react, express and anything that remotely requires creative thinking!**
 
-- 📫 How to reach me **rebecca.noy@gmx.de**
-
 - ⚡ Fun fact **If I'm not code-wrangling, I write novels (for fun. Or therapy?)**
 
 <h3 align="left">Connect with me:</h3>
