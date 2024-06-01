@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [apprendio.online](https://www.apprendio.online)
 
-- 🌱 I’m currently learning **python 🐍 / data analytic deep-dives 📊📈 / and a bit of AI basics**
+- 🌱 I’m currently learning **data analytic deep-dives 📊📈 / and a bit of AI basics**
 
-- 💬 Ask me about **react, express and anything that remotely requires creative thinking!**
+- 💬 Ask me about **anything that remotely requires creative thinking!**
 
 - ⚡ Fun fact **If I'm not code-wrangling, I write novels (for fun. Or therapy?)**
 
