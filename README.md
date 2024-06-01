@@ -50,3 +50,4 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extra-jalapenos&" alt="extra-jalapenos" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=extra-jalapenos)](https://github.com/ryo-ma/github-profile-trophy)
