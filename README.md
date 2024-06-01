@@ -1,4 +1,12 @@
-<link rel="stylesheet" href="style.css">
+<!-- <link rel="stylesheet" href="style.css"> -->
+<style>
+.grid {
+	display: grid;
+	gap: 2em;
+  grid-template-columns: repeat(7, min-content);
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Rebecca</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
 
@@ -21,7 +29,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
 
 <!-- nodejs -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
