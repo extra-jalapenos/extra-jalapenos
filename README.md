@@ -50,4 +50,4 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extra-jalapenos&" alt="extra-jalapenos" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=extra-jalapenos&title=Repositories,Commits,Issues,PullRequests,Reviews&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=extra-jalapenos&title=Repositories,Commits,Issues,PullRequests,Reviews,Experience,RainbowLang&no-frame=true6no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
