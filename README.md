@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="style.css">
-<link rel="import" href="test.html">
+<link rel="stylesheet" href="style.css" src="content.html" </link>
 
 <h1 align="center">Hi 👋, I'm Rebecca</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
@@ -18,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="grid">
+<div style="display: grid; grid-template-columns:repeat(7, min-content); gap: 2em;">
 <!-- javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- Python -->
@@ -52,8 +51,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- zapier -->
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</div>
+</table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=extra-jalapenos&show_icons=true&locale=en" alt="extra-jalapenos" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extra-jalapenos&" alt="extra-jalapenos" /></p>
+
