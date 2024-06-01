@@ -3,7 +3,3 @@
 	gap: 2em;
   grid-template-columns: repeat(7, min-content);
 }
-
-h1, h2 {
-	color: red;
-}
