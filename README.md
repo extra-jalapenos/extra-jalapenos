@@ -51,7 +51,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- zapier -->
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</table>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=extra-jalapenos&show_icons=true&locale=en" alt="extra-jalapenos" /></p>
 </br>
