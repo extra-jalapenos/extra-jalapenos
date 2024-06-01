@@ -1,11 +1,4 @@
-<!-- <link rel="stylesheet" href="style.css"> -->
-<style>
-.grid {
-	display: grid;
-	gap: 2em;
-  grid-template-columns: repeat(7, min-content);
-}
-</style>
+<link rel="stylesheet" href="style.css">
 
 <h1 align="center">Hi 👋, I'm Rebecca</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
