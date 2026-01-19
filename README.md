@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [apprendio.online](https://www.apprendio.online)
 
-- 🌱 I’m currently learning **data analytic deep-dives 📊📈 / and a bit of AI basics**
+- 🌱 I’m currently learning **d3 for data visualisations 📊📈**
 
 - 💬 Ask me about **anything that remotely requires creative thinking!**
 
