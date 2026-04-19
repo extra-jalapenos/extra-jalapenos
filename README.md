@@ -26,9 +26,11 @@
     <li>CSS3</li>
     <li>SQL / PostgreSQL</li>
   </ul>
-  <h4>Frameworks</h4>
+  <h4>Frameworks & Libraries</h4>
   <ul>
     <li>NodeJS</li>
+    <li>Express</li>
+    <li>D3.js</li>
     <li>React JS</li>
     <li>Vue3 JS</li>
   </ul>
