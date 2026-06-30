@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rebecca</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
 
-- 🔭 I’m currently working on [apprendio.online](https://www.apprendio.online)
+- 🔭 I’m currently working on GOOD SOUP, a meal planner.
 
-- 🌱 I’m currently learning **d3 for data visualisations 📊📈**
+- 🌱 I’m currently learning **Visualizations in Power BI with d3 for data visualisations 📊📈**
 
 - 💬 Ask me about **anything that remotely requires creative thinking!**
 
